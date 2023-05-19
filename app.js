@@ -63,12 +63,10 @@ app.post("/user", async (req, res) => {
          <p>As a subscriber, you will receive updates on our latest products, industry news, and other resources to help you navigate the complex world of healthcare supply chain. Our goal is to provide you with the best possible information to help you make informed decisions about your healthcare business.</p>
          <p>We take your privacy seriously, and you can trust that we will never sell or share your information with any third parties. You can also unsubscribe at any time if you feel that our content is no longer relevant to your needs.</p>
          <p>Thank you once again for joining our community at Drugstoc. We look forward to keeping you informed and helping you succeed in your healthcare business.</p>
-         <p>Best regards,</p>
-         <div style="line-height: 1.2; color: #f5f5f5">
-          <p>Bello Osagie</p>
-          <p>Drugstoc Team</p>
-         </div>
-          <p>P.S. If you have any questions or feedback, feel free to reach out to us at info@drugstoc.com. We would love to hear from you!</p>
+         Best regards, <br />
+         Bello Osagie <br />
+         Drugstoc Team
+         <p>P.S. If you have any questions or feedback, feel free to reach out to us at info@drugstoc.com. We would love to hear from you!</p>
          `,
     };
 
