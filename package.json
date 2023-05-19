@@ -4,9 +4,17 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "set DEBUG=app:db,app:port,app:error & npx nodemon"
   },
-  "keywords": ["Express", "Mongoose", "Nodemailer", "MongoDB", "Email Subscription", "Email Notification"],
+  "keywords": [
+    "Express",
+    "Mongoose",
+    "Nodemailer",
+    "MongoDB",
+    "Email Subscription",
+    "Email Notification"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
