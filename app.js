@@ -64,7 +64,6 @@ app.post("/user", async (req, res) => {
          <p>We take your privacy seriously, and you can trust that we will never sell or share your information with any third parties. You can also unsubscribe at any time if you feel that our content is no longer relevant to your needs.</p>
          <p>Thank you once again for joining our community at Drugstoc. We look forward to keeping you informed and helping you succeed in your healthcare business.</p>
          Best regards, <br />
-         Bello Osagie <br />
          Drugstoc Team
          <p>P.S. If you have any questions or feedback, feel free to reach out to us at info@drugstoc.com. We would love to hear from you!</p>
          `,
